@@ -48,7 +48,7 @@ http://localhost:8000/docs
 
 ---
 
-## 3. /chat Endpoint
+## 3. chat 
 
 ### Method:  
 `POST /chat`
@@ -69,7 +69,7 @@ http://localhost:8000/docs
   "answer": "...",
   "intent": "weather",
   "tool_result": "{...}",
-  "conversation_history": [...]
+  "conversation_history": [ ... ]
 }
 ```
 
@@ -119,5 +119,6 @@ To add a new tool:
 ---
 
 End of README.
+
 
 
