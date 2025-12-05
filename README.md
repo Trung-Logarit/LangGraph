@@ -57,7 +57,7 @@ http://localhost:8000/docs
 
 ```json
 {
-  "user_input": "What's the weather in Tokyo?",
+  "user_input": "What's the weather in Da Nang?",
   "conversation_history": []
 }
 ```
@@ -119,4 +119,5 @@ To add a new tool:
 ---
 
 End of README.
+
 
