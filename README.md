@@ -44,7 +44,7 @@ uvicorn main:app --reload --port 8000
 
 Open Swagger UI:
 
-👉 http://localhost:8000/docs
+http://localhost:8000/docs
 
 ---
 
@@ -119,3 +119,4 @@ To add a new tool:
 ---
 
 End of README.
+
